@@ -93,6 +93,7 @@ a {
 .hero-order-btn {
     background-color: var(--accent-color);
     color: var(--white-text-color);
+    font-family: inherit;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.9;
@@ -206,6 +207,7 @@ a {
 
 .filter-button {
     background-color: var(--secondary-background-color);
+    color: var(--primary-text-color);
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
